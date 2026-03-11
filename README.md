@@ -14,6 +14,8 @@ The goal is to rebuild intuition, sharpen skills, and stay hands-on with real co
 - Python
 - Google Colab
 - NumPy, Pandas, Scikit-Learn, PyTorch / TensorFlow (as needed)
+- PySpark
+- FastAPI (its own repo)
 
 
 Feel free to explore and run the notebooks as part of your learning journey 🙂
